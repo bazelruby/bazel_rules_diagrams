@@ -9,7 +9,7 @@ The source file was created in OmniGraffle, but lease feel free to contribute im
 
 ### Build Phases
 
-<a target="_blank" href="images/build_phases.png"><img src="images/build_phases.png" width="700">
+<a target="_blank" href="images/build_phases.png"><img src="images/build_phases.png" width="700"></a>
 
 ----
 
@@ -20,16 +20,11 @@ The source file was created in OmniGraffle, but lease feel free to contribute im
 
 ----
 
-### Build Context and 
+### Build Context
 
 <a target="_blank" href="images/build_context.png"><img src="images/build_context.png" width="700"></a>
 
-----
-
-### Shared Models, Constructors, Relationsihp
-
 <a target="_blank" href="images/shared_models_and_providers.png"><img src="images/shared_models_and_providers.png" width="700"></a>
-
 
 
 ## Copyright
