@@ -11,25 +11,25 @@ The source file was created in OmniGraffle, but lease feel free to contribute im
 
 === Build Phases
 
-image:images/bazel-phases.png[Build Phases]
+image::images/bazel-phases.png[Build Phases]
 
 '''
 
 === Repository Rules
 
-image:images/bazel-repository-ctx.png[Repository Context Rules]
+image::images/bazel-repository-ctx.png[Repository Context Rules]
 
 '''
 
 === Build Context
 
-image:images/bazel-build-exec.png[Build Execution Context]
+image::images/bazel-build-exec.png[Build Execution Context]
 
 '''
 
 === Rules, Shared Models, Providers
 
-image:images/bazel-rules-providers.png[Rules, Shared Models, Providers]
+image::images/bazel-rules-providers.png[Rules, Shared Models, Providers]
 
 '''
 
